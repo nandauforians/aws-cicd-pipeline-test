@@ -19,9 +19,8 @@ phases:
   post_build:
     commands:
       - echo post build
-
 artifacts:
   files:
-    - target\aws-cicd-pipeline-test-0.0.1-SNAPSHOT.jar
+    -target\aws-cicd-pipeline-test-0.0.1-SNAPSHOT.jar
   
  
