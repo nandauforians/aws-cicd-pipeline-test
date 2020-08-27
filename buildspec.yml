@@ -22,6 +22,6 @@ phases:
 
 artifacts:
   files:
-    - target\aws-cicd-test.jar
+    - target\aws-cicd-pipeline-test-0.0.1-SNAPSHOT.jar
   
  
